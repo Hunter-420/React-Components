@@ -1,0 +1,5 @@
+## MAP FUNCTION
+
+{comments.map((comment) => (
+    <div> {comment.body} </div>
+    ))}
